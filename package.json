@@ -1,0 +1,19 @@
+{
+  "name": "es6-primer",
+  "version": "0.0.1",
+  "description": "Ife's es6 Demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/Ifeoluwa-afolabi/es6-primer.git"
+  },
+  "author": "Afolabi Ifeoluwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ifeoluwa-afolabi/es6-primer/issues"
+  },
+  "homepage": "https://github.com/Ifeoluwa-afolabi/es6-primer#readme",
+  "type": "module"
+}
