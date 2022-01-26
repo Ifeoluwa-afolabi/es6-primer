@@ -14,3 +14,11 @@ const toTitleCase = (str) => {
    return toTitleCase(this.firstName)
    }
   }
+
+  export class User extends Person{
+   constructor(username, password, firstName, lastName, gender, height){
+   super(firstName, lastName, gender, height);
+   this.username = username;
+   this.password = password;
+   }
+  } 
